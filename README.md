@@ -87,14 +87,6 @@ print(forecast_dos("data/dos_traffic.csv", horizon=24))
 
 ---
 
-## 📈 Visuals
-<p align="center">
-  <img src="assets/conf_mat.png" width="400"/>
-  <img src="assets/dos_forecast.png" width="400"/>
-</p>
-
----
-
 ## 🤝 Contributing
 1. Fork the repo  
 2. Create a feature branch (`git checkout -b feature/foo`)  
