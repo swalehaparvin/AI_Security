@@ -1,6 +1,6 @@
-# ML for Cybersecurity 🛡️🤖
+# ML for AI Security 🛡️🤖
 
-A public repository dedicated to exploring the intersection of Machine Learning (ML) and Cybersecurity. This project contains implementations, research, and experiments on how ML can be used for cyber defense, as well as how ML systems themselves can be vulnerable to attacks.
+A public repository dedicated to exploring the intersection of Machine Learning (ML) and AI security. This project contains implementations, research, and experiments on how ML can be used for cyber defense, as well as how ML systems themselves can be vulnerable to attacks.
 
 ## 📂 Repository Structure
 
